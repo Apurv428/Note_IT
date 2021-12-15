@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Task 1",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Task 3",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "khqkefkl",
+      "details": "ioqhefii",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "3t;ltml1;3m4l;mgt",
+      "details": "3;l4mltmlm134t",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "inionnn",
+      "details": "ililnnklnlk",
+      "category": "todos",
+      "id": 7
+    }
+  ]
+}
